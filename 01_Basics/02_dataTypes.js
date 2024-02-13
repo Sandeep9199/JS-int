@@ -27,3 +27,8 @@ let state;
 
 console.log(typeof undefined); // undefined
 console.log(typeof null); // object
+
+// for docs go to mdn and tc39
+
+// https://tc39.es/ecma262/ 
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript
