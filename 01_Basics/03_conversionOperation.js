@@ -1,4 +1,5 @@
-let score = "hitesh"
+// let score = "hitesh" // Number me convert nahi hoga NaN
+let score = null // iska value Number() me convert kare to 0 hoga
 
 //console.log(typeof(score));
 
@@ -10,6 +11,8 @@ let valueInNumber = Number(score)
 // "33" => 33
 // "33abc" => NaN
 //  true => 1; false => 0
+
+// let isLoggedIn = 1
 
 let isLoggedIn = "hitesh"
 
@@ -25,6 +28,8 @@ let someNumber = 33
 let stringNumber = String(someNumber)
 // console.log(stringNumber);
 // console.log(typeof stringNumber);
+
+// forms banane me type conversion use jyada karte hai 
 
 // *********************** Operations ***********************
 
