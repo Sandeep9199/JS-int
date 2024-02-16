@@ -1,0 +1,18 @@
+javascript is synchronus language
+javascript is single threaded language 
+javascript is slow language but its never feel slow 
+
+excution context 
+----------------- 
+Each operation waits for the last one to complete before excuting.
+
+Blocking code vs Non blocking code
+-------------------------------------------------
+Blocking Code --> Block the flow of programm 
+                  Read file sync.
+
+Non Blocking Code --> Does not block excution
+                  --> Read file async.
+
+                  
+
